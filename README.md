@@ -1,3 +1,6 @@
+
+## Jammming - A project which use the Spotify API
+
 Do you like music?
 
 With Jammming you can add your favorite songs, using the Spotify API.
