@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Do you like music?
+
+With Jammming you can add your favorite songs, using the Spotify API.
 
 ## Available Scripts
 
